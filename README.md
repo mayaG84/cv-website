@@ -1,4 +1,4 @@
 # cv-website
 
 ## Description
-TODO: describe the project
+TODO: Resume website developed by using HTML and CSS.
